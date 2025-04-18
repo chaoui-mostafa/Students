@@ -26,9 +26,6 @@ gcc students.c -o students
 ./students
 ```
 
-## 📸 Screenshots (Optional)
-You can add screenshots of the terminal interface here for better presentation.
-
 ## 🧠 Concepts Used
 - Structures in C
 - File handling (`fopen`, `fread`, `fwrite`, etc.)
